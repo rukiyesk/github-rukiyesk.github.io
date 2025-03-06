@@ -18,6 +18,15 @@ header {
     text-align: center;
     padding: 20px 0;
 }
+.profile-img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: block;
+    margin: 10px auto;
+    border: 3px solid white; /* Beyaz çerçeve */
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Hafif gölge efekti */
+}
 
 nav ul {
     list-style: none;
