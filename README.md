@@ -1,1 +1,1 @@
-# github-rukiyesk.github.io
+rukiyesk.github.io
